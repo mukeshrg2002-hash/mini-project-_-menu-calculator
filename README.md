@@ -24,6 +24,27 @@ This project demonstrates the use of **loops, conditionals, and user input handl
    cd menu-calculator
    python calculator.py
    ```
+🎯 Learning Highlights
+This project is a great way to practice:
+
+Using while loops for repetition
+
+Handling user input with input()
+
+Applying conditional logic (if/elif/else)
+
+Implementing basic error handling
+
+📌 Future Enhancements
+Add more operations (modulus, power, square root)
+
+Build a GUI version using Tkinter
+
+Save calculation history to a file
+
+👨‍💻 Author
+Created by MRG as part of a Python learning journey.
+Feel free to fork, improve, and share!
    
 
 
