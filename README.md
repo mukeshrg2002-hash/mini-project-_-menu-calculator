@@ -16,3 +16,14 @@ This project demonstrates the use of **loops, conditionals, and user input handl
 - Runs continuously until the user chooses to exit
 
 ---
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com//mukeshrg2002-hash/menu-calculator.git
+   cd menu-calculator
+   python calculator.py
+   ```
+   
+
+
